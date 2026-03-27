@@ -4,8 +4,12 @@
     "email": "vvshenok1@gmail.com"
   },
   "records": {
-    "CNAME": "portfolio-rho-lemon-27.vercel.app",
-    "TXT": "vc-domain-verify=vvshenok.is-a.dev,cc6f05ee4b4e5bfc4e58"
+    "CNAME": "portfolio-rho-lemon-27.vercel.app"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": "vc-domain-verify=vvshenok.is-a.dev,cc6f05ee4b4e5bfc4e58"
+    }
   },
   "proxied": true
 }
